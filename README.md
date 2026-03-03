@@ -42,7 +42,7 @@ class YashJIndal:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,11 +91,11 @@ availability: Open to collaborate on ambitious projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuronNexus&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash19-j&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NeuronNexus&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yash19-j&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuronNexus&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash19-j&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF)
 
 
 </div>
